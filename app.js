@@ -9,7 +9,7 @@ var config = {
   app_name: 'niglet dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  recaptcha_sitekey: '6Lcw6B4TAAAAAPa886YY8dbn2jGwQ91fh_tfPJPg',  // <----- EDIT ME!
   redirect_uri: 'https://trevor1400e.github.io/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
